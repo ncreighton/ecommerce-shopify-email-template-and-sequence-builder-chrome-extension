@@ -29,8 +29,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Under 
 
 Upgrade to the Pro version for **$24.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/mdukgl)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/aFacN5dPp3o8f44bzScZZ30)** — Secure checkout
 
 ## Installation
@@ -42,7 +40,6 @@ Upgrade to the Pro version for **$24.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/mdukgl)
 
 ## License
 
